@@ -1,2 +1,2 @@
-# -Manash
+# -Manas
 my portfolio 
